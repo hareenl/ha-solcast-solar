@@ -3,5 +3,5 @@
     "render_readme": false,
     "homeassistant": "2023.7",
     "zip_release": true,
-    "filename": "ha-solcast-solar-release.zip"
+    "filename": "solcast_solar.zip"
 }
